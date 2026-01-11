@@ -64,8 +64,8 @@ for hands-on cybersecurity labs.
 ### Processes
 
 * 'explorer.exe' - Windows Explorer, default GUI process
-* `svchost.exe' – Host for multiple Windows services
-* `winlogon.exe' – Responsible for user login sessions
+* 'svchost.exe' – Host for multiple Windows services
+* 'winlogon.exe' – Responsible for user login sessions
 
 (Note: all default processes were running; no suspicious activity observed)
 
@@ -107,4 +107,3 @@ for hands-on cybersecurity labs.
 * snapshot-baseline.png
 * task-manager.png
 * user-information.png
-
