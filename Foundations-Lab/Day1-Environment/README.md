@@ -1,26 +1,26 @@
-\# Day 1 – Virtual Lab Environment Setup
+# Day 1 – Virtual Lab Environment Setup
 
 
 
-\## Objective
+## Objective
 
 Establish a controlled virtual environment for hands-on cybersecurity labs.
 
 
 
-\## Tasks
+## Tasks
 
-\- Installed VirtualBox and Windows 10 VM
+- Installed VirtualBox and Windows 10 VM
 
-\- Configured RAM, CPU, and storage
+- Configured RAM, CPU, and storage
 
-\- Take baseline snapshots
+- Take baseline snapshots
 
-\- Observed system processes and users
+- Observed system processes and users
 
 
 
-\## Why Virtual Machines Matter
+## Why Virtual Machines Matter
 
 Virtual machines provide isolated environments for security testing,
 
@@ -30,7 +30,8 @@ the host machine.
 
 
 
-\## Outcome
+## Outcome
 
 A clean VM environment was created and snapshotted, ready for future security experiments.
+
 
