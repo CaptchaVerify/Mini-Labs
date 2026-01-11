@@ -1,7 +1,7 @@
-# Foundations Lab – Cybersecurity Core Skills
+# Mini Labs – Cybersecurity Core Skills
 
 ## Overview
-The Foundations Lab is a collection of exercises designed to teach and document core cybersecurity skills through hands-on experience.  
+The mini labs are a collection of exercises designed to teach and document core cybersecurity skills through hands-on experience.  
 The focus is on understanding system behavior, Windows and Linux basics, logging, and early threat visibility. This section forms the foundation for more advanced detection, monitoring, and incident response exercises.
 
 ## Objectives
