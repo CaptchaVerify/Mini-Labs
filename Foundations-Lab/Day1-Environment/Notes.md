@@ -1,14 +1,14 @@
-\# Day 1 - Virtual lab Environment Notes
+# Day 1 - Virtual lab Environment Notes
 
 
 
-\## Date
+## Date
 
 11-01-2026
 
 
 
-\## Objective
+## Objective
 
 Document the setup and initial observations of a Windows virtual machine environment
 
@@ -16,7 +16,7 @@ for hands-on cybersecurity labs.
 
 
 
-\## Environment Details
+## Environment Details
 
 * Hypervisor: VMware Workstation 17 Pro
 * Hypervisor Version: 17.6.4 build-24832109
@@ -27,10 +27,11 @@ for hands-on cybersecurity labs.
 
 
 
-\## Tasks Completed
+## Tasks Completed
 
-1. Installed VMware hypervisor
-2. Created and installed a Windows 10 VM
+1\. Installed VMware hypervisor
+
+2\. Created and installed a Windows 10 VM
 
 3\. Configured VM resources (RAM, CPU, Storage)
 
@@ -52,7 +53,7 @@ for hands-on cybersecurity labs.
 
 
 
-\## Observations
+## Observations
 
 * Windows default settings allow basic user interaction immediately.
 * Default processes and services can be observed in Task Manager.
@@ -60,27 +61,27 @@ for hands-on cybersecurity labs.
 
 
 
-\### Processes
+### Processes
 
 * 'explorer.exe' - Windows Explorer, default GUI process
-* `svchost.exe` – Host for multiple Windows services
-* `winlogon.exe` – Responsible for user login sessions
+* `svchost.exe' – Host for multiple Windows services
+* `winlogon.exe' – Responsible for user login sessions
 
-\*(Note: all default processes were running; no suspicious activity observed)\*
+(Note: all default processes were running; no suspicious activity observed)
 
 
 
-\### Services
+### Services
 
 * Windows Update service running
 * DHCP Client running
 * Event Log service running
 
-\*(Default services; baseline behavior noted)\*
+(Default services; baseline behavior noted)
 
 
 
-\### Users
+### Users
 
 * Administrator account created during setup
 * Default Guest account disabled
@@ -88,7 +89,7 @@ for hands-on cybersecurity labs.
 
 
 
-\## Lessons Learned
+## Lessons Learned
 
 1\. Always start with a clean baseline VM.
 
@@ -100,9 +101,10 @@ for hands-on cybersecurity labs.
 
 
 
-\## Evidence
+## Evidence
 
 * hypervisor-installed.png
 * snapshot-baseline.png
 * task-manager.png
 * user-information.png
+
