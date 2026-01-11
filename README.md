@@ -4,7 +4,7 @@
 The Foundations Lab is a collection of exercises designed to teach and document core cybersecurity skills through hands-on experience.  
 The focus is on understanding system behavior, Windows and Linux basics, logging, and early threat visibility. This section forms the foundation for more advanced detection, monitoring, and incident response exercises.
 
-Each folder within 'Foundations-Lab' contains detailed notes, screenshots, and observations from daily labs.
+Each folder within 'Foundations' contains detailed notes, screenshots, and observations from daily labs.
 
 ## Objectives
 - Learn how to set up safe lab environments using virtual machines.
